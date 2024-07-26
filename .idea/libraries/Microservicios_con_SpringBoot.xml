@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Microservicios con SpringBoot">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/eureka-server/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
